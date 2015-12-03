@@ -1,0 +1,3 @@
+Chances are every programmer will end up having to manipulate structured text files at any point in his career. Those files are called flat files and, until now, you had to go through that same boring script to work with them. You had to open the file, create a reader, then start reading and parsing line by line. No more.
+
+JFileHelpers is a library that automates the tedious task of parsing and creating structured text files. It handles fixed width or delimited files with Java annotations sweetness.
